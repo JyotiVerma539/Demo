@@ -1,2 +1,5 @@
 Hello my name is Jyoti. !!!!
+<<<<<<< HEAD
 Hello this is second line/
+=======
+>>>>>>> 1429377 (first commit (#1))
