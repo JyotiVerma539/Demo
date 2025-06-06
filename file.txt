@@ -2,4 +2,8 @@ Hello my name is Jyoti. !!!!
 <<<<<<< HEAD
 Hello this is second line/
 =======
+<<<<<<< HEAD
 >>>>>>> 1429377 (first commit (#1))
+=======
+>>>>>>> 1429377f9a61d21b017ee660199c139f4c17c3cc
+>>>>>>> bedd4c09d83cb9ce85df449c0342afab2ee3d46a
